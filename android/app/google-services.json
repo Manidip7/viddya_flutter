@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218827026310",
+    "firebase_url": "https://vidya-5fe5d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vidya-5fe5d",
+    "storage_bucket": "vidya-5fe5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218827026310:android:6974f2f94648d31a708607",
+        "android_client_info": {
+          "package_name": "com.example.vidya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218827026310-ljnf7v6bagjbd1kgia9hq417t8669hp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAri-a-ZOlHWuxYwFknGgKJv2i_U6OlisE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218827026310-ljnf7v6bagjbd1kgia9hq417t8669hp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
